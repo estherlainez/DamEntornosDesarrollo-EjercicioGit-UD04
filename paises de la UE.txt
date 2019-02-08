@@ -3,3 +3,7 @@ ESPAÑA
 FRANCIA
 IRLANDA
 PORTUGAL
+
+Estados Miembros de la Unión Europea. Alemania, Austria, Bélgica, Bulgaria, Chipre, 
+Croacia, Dinamarca, Eslovaquia, Eslovenia, España, Estonia, Finlandia, Francia, Grecia, Hungría, Irlanda, Italia, Letonia, Lituania, 
+Luxemburgo, Malta, Países Bajos, Polonia, Portugal, Reino Unido, República Checa, Rumanía y Suecia.
